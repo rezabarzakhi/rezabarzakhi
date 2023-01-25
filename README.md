@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile 🚀
 
-My name is **Reza Barzakhi** and I am 28 years old. I am a web developer with strong skills in **HTML**, **CSS**, and **JavaScript**. I am currently learning **React.js** and am excited to continue expanding my knowledge in the field of web development.
+My name is **Reza Barzakhi** and I am 28 years old. I am a web developer with some skills in **HTML**, **CSS**, and **JavaScript**. I am currently learning **React.js** and am excited to continue expanding my knowledge in the field of web development.
 
 Here you can find a collection of my personal projects and contributions to open source projects. Feel free to take a look around and let me know if you have any questions or feedback.
 
