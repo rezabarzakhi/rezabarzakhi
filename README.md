@@ -5,7 +5,7 @@ My name is **Reza Barzakhi** and I am 28 years old. I am a web developer with so
 Here you can find a collection of my personal projects and contributions to open source projects. Feel free to take a look around and let me know if you have any questions or feedback.
 
 ## Projects 💻
-- [elements]([link](https://github.com/rezabarzakhi/Elements)) - simple element for dashbord with HTML and CSS
+- [elements](https://github.com/rezabarzakhi/Elements) - simple element for dashbord with HTML and CSS
 - [Project 2](link) - A brief description of the project and technologies used.
 - [Project 3](link) - A brief description of the project and technologies used.
 
