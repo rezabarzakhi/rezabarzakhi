@@ -15,8 +15,8 @@ Here you can find a collection of my personal projects and contributions to open
 - [Open Source Project](link) - A brief description of the contribution made.
 
 ## Contact Me 📱
-- Email: your email address
-- LinkedIn: your LinkedIn profile link
+- Email: reza.brzkhi@gmail.com
+- LinkedIn: [your LinkedIn profile link](https://www.linkedin.com/in/reza-brzkhi-52025323a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1yRh%2FbRATp%2BH6qMs3We%2FwA%3D%3D)
 - Twitter: your twitter handle
 
 Thank you for visiting my GitHub profile! 👀
