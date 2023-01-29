@@ -17,7 +17,7 @@ Here you can find a collection of my personal projects and contributions to open
 ## Contact Me 📱
 - Email: reza.brzkhi@gmail.com
 - LinkedIn: [reza barzakhi](https://www.linkedin.com/in/reza-brzkhi-52025323a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1yRh%2FbRATp%2BH6qMs3We%2FwA%3D%3D)
-- Twitter: your twitter handle
+- Twitter: [reza barzakhi](https://twitter.com/rezabarzakhi)
 
 Thank you for visiting my GitHub profile! 👀
 
