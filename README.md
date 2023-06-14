@@ -26,13 +26,9 @@ Here you can find a collection of my personal projects and contributions to open
 
 ## Projects 💻
 - [elements](https://github.com/rezabarzakhi/Elements) - simple element for dashbord with HTML and CSS
-- [Project 2](link) - A brief description of the project and technologies used.
-- [Project 3](link) - A brief description of the project and technologies used.
+- [personalBlog](https://github.com/rezabarzakhi/personalblog) - a blog for my self its only simpel front now but i will add more features to it .
+- [TarkinehResturant](https://github.com/rezabarzakhi/tarkhineh) - Full resturant website with many features that i still work on it. 
 
-## Contributions 🤝
-- [Open Source Project](link) - A brief description of the contribution made.
-- [Open Source Project](link) - A brief description of the contribution made.
-- [Open Source Project](link) - A brief description of the contribution made.
 
 ## Contact Me 📱
 - Email: reza.brzkhi@gmail.com
