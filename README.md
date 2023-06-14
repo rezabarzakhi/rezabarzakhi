@@ -25,9 +25,12 @@ My name is **Reza Barzakhi** and I am 28 years old. I am a web developer with so
 Here you can find a collection of my personal projects and contributions to open source projects. Feel free to take a look around and let me know if you have any questions or feedback.
 
 ## Projects 💻
-- [elements](https://github.com/rezabarzakhi/Elements) - simple element for dashbord with HTML and CSS
+- [TarkinehResturant](https://github.com/rezabarzakhi/tarkhineh) - Full resturant website with many features that i still 
+work on it. 
 - [personalBlog](https://github.com/rezabarzakhi/personalblog) - a blog for my self its only simpel front now but i will add more features to it .
-- [TarkinehResturant](https://github.com/rezabarzakhi/tarkhineh) - Full resturant website with many features that i still work on it. 
+- [shoppingCart](https://github.com/rezabarzakhi/FirstShopingCart) - simple shopping cart project
+
+
 
 
 ## Contact Me 📱
