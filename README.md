@@ -1,9 +1,9 @@
 <!-- Header -->
 
-<p align="center">
+ <!--<p align="center">
   <img src="https://camo.githubusercontent.com/d2db2a98e00e44236180c960d84879e5a080a5c7b400da061a79a16bc9fe6dcf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74" width="100%" alt="Header"/>
-</p>
-
+</p> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B607&random=false&width=435&lines=Hi%2C+i'm+Reza+a+Frontend+Developer)](https://git.io/typing-svg)
 # Welcome to my GitHub Profile 🚀
 
 My name is **Reza Barzakhi** and I am 28 years old. I am a web developer with some skills in **HTML**, **CSS**, and **JavaScript**. I am currently learning **React.js** and am excited to continue expanding my knowledge in the field of web development.
